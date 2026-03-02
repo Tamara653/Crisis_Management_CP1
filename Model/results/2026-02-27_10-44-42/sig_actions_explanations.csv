@@ -1,0 +1,6 @@
+,Baseline Coordination,Reactive (High trust),Hybrid Foresight (High trust),Hybrid Foresight (Low trust),Automation-driven Foresight
+Baseline Coordination,,"Mann–Whitney U (chosen globally); normality p=(0.000, 0.000), variance p=0.698","Mann–Whitney U (chosen globally); normality p=(0.000, 0.000), variance p=0.370","Mann–Whitney U (chosen globally); normality p=(0.000, 0.000), variance p=0.004","Mann–Whitney U (chosen globally); normality p=(0.000, 0.000), variance p=0.011"
+Reactive (High trust),,,"Mann–Whitney U (chosen globally); normality p=(0.000, 0.000), variance p=0.603","Mann–Whitney U (chosen globally); normality p=(0.000, 0.000), variance p=0.010","Mann–Whitney U (chosen globally); normality p=(0.000, 0.000), variance p=0.003"
+Hybrid Foresight (High trust),,,,"Mann–Whitney U (chosen globally); normality p=(0.000, 0.000), variance p=0.042","Mann–Whitney U (chosen globally); normality p=(0.000, 0.000), variance p=0.001"
+Hybrid Foresight (Low trust),,,,,"Mann–Whitney U (chosen globally); normality p=(0.000, 0.000), variance p=0.000"
+Automation-driven Foresight,,,,,

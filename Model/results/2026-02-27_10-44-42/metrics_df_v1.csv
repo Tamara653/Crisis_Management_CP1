@@ -1,0 +1,6 @@
+scenario,actions_taken,risk_breaches,delivered_no_reason,trust_delta
+Baseline Coordination,37.47,35.57,3.44,-0.778
+Reactive (High trust),42.39,15.49,2.95,0.25
+Hybrid Foresight (High trust),44.49,14.0,16.09,-0.106
+Hybrid Foresight (Low trust),40.15,27.53,6.27,0.11
+Automation-driven Foresight,47.97,21.02,14.66,-0.291
